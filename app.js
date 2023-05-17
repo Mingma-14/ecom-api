@@ -12,3 +12,4 @@ app.use("/api/products", productRouter)
 app.listen(port, () =>{
     console.log(`server starts at port ${port}`)
 })
+//csr (client side rendering)
